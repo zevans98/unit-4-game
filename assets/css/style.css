@@ -1,0 +1,53 @@
+body {
+    background-color: aqua
+}
+#div1{
+    background-color: orangered;
+    color: aliceblue;
+    width: 40%;
+}
+#div2{
+    background-color: tan;
+    height: 40%;
+    width: 40%;
+    padding: 15px;
+    color: green;
+}
+#div3{
+    background-color: green;
+    width: 40%;
+    height:10%;
+    padding: 15px;
+    margin-top: 5%
+
+
+}
+#div4{
+    margin-top: 5px;
+}
+#div5{
+    background-color: orchid;
+    color: aliceblue;
+    width: 40%;
+    padding: 10px;
+}
+#div6{
+    background-color: orchid;
+    color: aliceblue;
+    width:40%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 5%;
+}
+#div7{
+    width: 10%;
+    padding: 10px;
+    background-color: black;
+    color: aliceblue
+}
+.gem{
+    width: 20%;
+    height: 200px;
+
+
+}
